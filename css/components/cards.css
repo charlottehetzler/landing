@@ -1,0 +1,43 @@
+.card1{
+  border: 1px solid rgba(0, 0, 0, 0.19);
+  text-align:center;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 3px;
+  padding: 20px;
+  width: 170px;
+}
+
+.card2{
+  border: 1px solid rgba(0, 0, 0, 0.19);
+  text-align:center;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 3px;
+  padding: 20px;
+  width: 170px;
+
+}
+
+.card3{
+  border: 1px solid rgba(0, 0, 0, 0.19);
+  text-align:center;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 3px;
+  padding: 20px;
+  width: 170px;
+
+}
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin:0 auto;
+  padding: 30px 0;
+}
+
+.cards p {
+  opacity: 0.7;
+  font-size: 14px;
+}
+
+.cards h2 {
+  font-size: 16px;
+}

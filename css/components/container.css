@@ -1,0 +1,11 @@
+.container {
+  margin: auto;
+  width: 840px;
+  display: center;
+}
+
+#banner-p {
+  opacity: 0.7;
+}
+
+
